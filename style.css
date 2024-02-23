@@ -1,0 +1,36 @@
+.title {
+    max-width: fit-content;
+    outline: 2px solid black;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 36px;
+}
+
+.img {
+    text-align: center;
+}
+
+.list {
+    max-width: fit-content;
+    padding-right: 25px;
+    margin: auto;
+    text-align: left;
+}
+
+button {
+    font-size: 20px;
+    margin: 5px;
+    color: blue;
+}
+
+.content {
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+p {
+    margin: 0px;
+}
